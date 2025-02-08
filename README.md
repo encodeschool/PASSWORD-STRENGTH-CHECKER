@@ -19,6 +19,6 @@ Want to make your website more secure? Learn how to create a Password Strength C
 👉 Don’t forget to LIKE 👍 | COMMENT 💬 | SUBSCRIBE 🔔 for more awesome coding tutorials!
 
 YOUTUBE
-
+https://www.youtube.com/watch?v=wT37NcAknh8
 
 #PasswordStrength #HTML #CSS #JavaScript #WebDevelopment #Security #FrontendDevelopment #CodingForBeginners #LearnToCode #WebDesign
